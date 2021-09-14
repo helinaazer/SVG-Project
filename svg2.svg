@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="800">
+      <rect x="0" y="0" rx="0" ry="0" width="800" height="800" style="fill:lightblue" transform="rotate()0" stroke="lightblue"  />
+      <polygon points="300,200 265,310 340,310" style="fill:blue"  />
+      <circle cx="300" cy="400" r="100" fill="green"  />
+      <circle cx="235" cy="340" r="50" fill="green"  />
+      <circle cx="370" cy="340" r="50" fill="green"  />
+      <circle cx="235" cy="340" r="30" fill="white"  />
+      <circle cx="370" cy="340" r="30" fill="white"  />
+      <circle cx="236" cy="342" r="20" fill="black"  />
+      <circle cx="370" cy="342" r="20" fill="black"  />
+      <ellipse cx="300" cy="450" rx="30" ry="50" fill="red"  />
+</svg>

@@ -1,0 +1,21 @@
+rectangle 0 0 0 0 800 800 bisque 0 bisque
+rectangle 0 0 0 0 100 150 lightblue 0 lightblue
+rectangle 0 150 0 0 200 80 darksalmon 0 darksalmon
+rectangle 100 230 0 0 100 150 lightseagreen 0 lightseagreen
+rectangle 100 370 0 0 200 80 darkgrey 0 darkgrey
+rectangle 200 450 0 0 100 150 lightseagreen 0 lightseagreen
+rectangle 200 600 0 0 200 80 darksalmon 0 darksalmon
+rectangle 300 680 0 0 100 150 lightblue 0 lightblue
+circle 400 400 100 lightblue
+triangle 405 300 405 500 500 400 lightseagreen
+triangle 405 300 405 500 300 400 lightseagreen
+ellipse 400 400 100 10 darkgrey
+ellipse 405 400 10 100 darkgrey
+rectangle 700 0 0 0 100 150 lightblue 0 lightblue
+rectangle 600 150 0 0 200 80 darksalmon 0 darksalmon
+rectangle 600 230 0 0 100 150 lightseagreen 0 lightseagreen
+rectangle 500 370 0 0 200 80 darkgrey 0 darkgrey
+rectangle 500 450 0 0 100 150 lightseagreen 0 lightseagreen
+rectangle 400 600 0 0 200 80 darksalmon 0 darksalmon
+rectangle 400 680 0 0 100 150 lightblue 0 lightblue
+

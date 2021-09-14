@@ -1,0 +1,20 @@
+rectangle 0 0 0 0 800 500 powderblue 0 powderblue
+ellipse 100 110 40 20 white
+ellipse 70 125 40 20 white
+ellipse 100 135 40 20 white
+ellipse 130 125 40 20 white
+ellipse 700 80 40 20 white
+ellipse 670 95 40 20 white
+ellipse 700 105 40 20 white
+ellipse 730 95 40 20 white
+circle 400 250 190 gold
+triangle 580 150 350 450 770 450 tan
+triangle 350 200 200 450 550 450 tan
+triangle 170 250 50 450 350 450 tan
+triangle 580 150 350 450 580 155 saddlebrown
+triangle 350 200 200 450 350 205 saddlebrown
+triangle 170 250 50 450 170 255 saddlebrown
+rectangle 0 440 0 0 800 300 white 0 white
+rectangle 0 440 0 0 800 120 red 0 red
+rectangle 0 680 0 0 800 120 black 0 black
+ellipse 400 620 35 58 yellow

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="800">
+      <rect x="0" y="0" rx="0" ry="0" width="800" height="500" style="fill:powderblue" transform="rotate()0" stroke="powderblue"  />
+      <ellipse cx="100" cy="110" rx="40" ry="20" fill="white"  />
+      <ellipse cx="70" cy="125" rx="40" ry="20" fill="white"  />
+      <ellipse cx="100" cy="135" rx="40" ry="20" fill="white"  />
+      <ellipse cx="130" cy="125" rx="40" ry="20" fill="white"  />
+      <ellipse cx="700" cy="80" rx="40" ry="20" fill="white"  />
+      <ellipse cx="670" cy="95" rx="40" ry="20" fill="white"  />
+      <ellipse cx="700" cy="105" rx="40" ry="20" fill="white"  />
+      <ellipse cx="730" cy="95" rx="40" ry="20" fill="white"  />
+      <circle cx="400" cy="250" r="190" fill="gold"  />
+      <polygon points="580,150 350,450 770,450" style="fill:tan"  />
+      <polygon points="350,200 200,450 550,450" style="fill:tan"  />
+      <polygon points="170,250 50,450 350,450" style="fill:tan"  />
+      <polygon points="580,150 350,450 580,155" style="fill:saddlebrown"  />
+      <polygon points="350,200 200,450 350,205" style="fill:saddlebrown"  />
+      <polygon points="170,250 50,450 170,255" style="fill:saddlebrown"  />
+      <rect x="0" y="440" rx="0" ry="0" width="800" height="300" style="fill:white" transform="rotate()0" stroke="white"  />
+      <rect x="0" y="440" rx="0" ry="0" width="800" height="120" style="fill:red" transform="rotate()0" stroke="red"  />
+      <rect x="0" y="680" rx="0" ry="0" width="800" height="120" style="fill:black" transform="rotate()0" stroke="black"  />
+      <ellipse cx="400" cy="620" rx="35" ry="58" fill="yellow"  />
+</svg>

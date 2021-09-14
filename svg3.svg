@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="800">
+      <rect x="0" y="0" rx="0" ry="0" width="800" height="800" style="fill:lightblue" transform="rotate()0" stroke="lightblue"  />
+      <polygon points="360,255 470,328 470,177" style="fill:orange"  />
+      <polygon points="140,255 400,400 400,100" style="fill:red"  />
+      <polygon points="140,255 270,328 270,177" style="fill:yellow"  />
+      <polygon points="380,250 330,300 330,210" style="fill:green"  />
+      <circle cx="180" cy="255" r="15" fill="white"  />
+      <circle cx="180" cy="255" r="8" fill="black"  />
+      <ellipse cx="290" cy="180" rx="20" ry="10" fill="gray"  />
+      <ellipse cx="290" cy="200" rx="20" ry="10" fill="lightgray"  />
+      <ellipse cx="290" cy="220" rx="20" ry="10" fill="gray"  />
+      <ellipse cx="290" cy="240" rx="20" ry="10" fill="lightgray"  />
+      <ellipse cx="290" cy="260" rx="20" ry="10" fill="gray"  />
+      <ellipse cx="290" cy="280" rx="20" ry="10" fill="lightgray"  />
+      <ellipse cx="290" cy="300" rx="20" ry="10" fill="gray"  />
+      <ellipse cx="290" cy="320" rx="20" ry="10" fill="lightgray"  />
+</svg>

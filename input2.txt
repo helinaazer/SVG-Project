@@ -1,0 +1,10 @@
+rectangle 0 0 0 0 800 800 lightblue 0 lightblue
+triangle 300 200 265 310 340 310 blue
+circle 300 400 100 green
+circle 235 340 50 green
+circle 370 340 50 green
+circle 235 340 30 white
+circle 370 340 30 white
+circle 236 342 20 black
+circle 370 342 20 black
+ellipse 300 450 30 50 red

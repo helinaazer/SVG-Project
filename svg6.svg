@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="800">
+      <rect x="0" y="0" rx="0" ry="0" width="800" height="800" style="fill:darkgreen" transform="rotate()0" stroke="darkgreen"  />
+      <rect x="0" y="0" rx="0" ry="0" width="800" height="700" style="fill:midnightblue" transform="rotate()0" stroke="midnightblue"  />
+      <rect x="400" y="355" rx="0" ry="0" width="300" height="345" style="fill:saddlebrown" transform="rotate()0" stroke="saddlebrown"  />
+      <polygon points="552,250 334,400 770,400" style="fill:tan"  />
+      <circle cx="120" cy="100" r="75" fill="white"  />
+      <circle cx="130" cy="98" r="75" fill="midnightblue"  />
+      <rect x="510" y="540" rx="0" ry="0" width="80" height="160" style="fill:maroon" transform="rotate()0" stroke="maroon"  />
+      <ellipse cx="580" cy="605" rx="8" ry="8" fill="yellow"  />
+      <rect x="600" y="425" rx="0" ry="0" width="70" height="70" style="fill:maroon" transform="rotate()0" stroke="maroon"  />
+      <rect x="165" y="540" rx="0" ry="0" width="30" height="160" style="fill:sienna" transform="rotate()0" stroke="sienna"  />
+      <ellipse cx="700" cy="80" rx="40" ry="20" fill="white"  />
+      <ellipse cx="670" cy="95" rx="40" ry="20" fill="white"  />
+      <ellipse cx="700" cy="105" rx="40" ry="20" fill="white"  />
+      <ellipse cx="730" cy="95" rx="40" ry="20" fill="white"  />
+      <ellipse cx="300" cy="130" rx="40" ry="20" fill="white"  />
+      <ellipse cx="270" cy="145" rx="40" ry="20" fill="white"  />
+      <ellipse cx="300" cy="155" rx="40" ry="20" fill="white"  />
+      <ellipse cx="330" cy="145" rx="40" ry="20" fill="white"  />
+      <ellipse cx="180" cy="520" rx="60" ry="30" fill="green"  />
+      <ellipse cx="145" cy="470" rx="60" ry="30" fill="green"  />
+      <ellipse cx="175" cy="420" rx="60" ry="30" fill="green"  />
+      <ellipse cx="200" cy="470" rx="60" ry="30" fill="green"  />
+      <rect x="425" y="425" rx="0" ry="0" width="70" height="70" style="fill:maroon" transform="rotate()0" stroke="maroon"  />
+</svg>

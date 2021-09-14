@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="800">
+      <rect x="0" y="0" rx="0" ry="0" width="800" height="800" style="fill:lightblue" transform="rotate()0" stroke="lightblue"  />
+      <rect x="280" y="150" rx="0" ry="0" width="250" height="350" style="fill:yellow" transform="rotate()0" stroke="yellow"  />
+      <circle cx="370" cy="255" r="40" fill="white"  />
+      <circle cx="370" cy="255" r="20" fill="deepskyblue"  />
+      <circle cx="370" cy="255" r="15" fill="black"  />
+      <circle cx="440" cy="255" r="40" fill="white"  />
+      <circle cx="440" cy="255" r="20" fill="deepskyblue"  />
+      <circle cx="440" cy="255" r="15" fill="black"  />
+      <rect x="280" y="450" rx="0" ry="0" width="250" height="50" style="fill:saddlebrown" transform="rotate()0" stroke="saddlebrown"  />
+      <rect x="280" y="410" rx="0" ry="0" width="250" height="40" style="fill:white" transform="rotate()0" stroke="white"  />
+      <ellipse cx="425" cy="300" rx="40" ry="5" fill="gold"  />
+      <rect x="310" y="500" rx="5" ry="5" width="50" height="20" style="fill:saddlebrown" transform="rotate()0" stroke="saddlebrown"  />
+      <rect x="450" y="500" rx="5" ry="5" width="50" height="20" style="fill:saddlebrown" transform="rotate()0" stroke="saddlebrown"  />
+      <rect x="325" y="520" rx="0" ry="0" width="17" height="130" style="fill:white" transform="rotate()0" stroke="white"  />
+      <rect x="325" y="520" rx="0" ry="0" width="17" height="50" style="fill:yellow" transform="rotate()0" stroke="yellow"  />
+      <rect x="465" y="520" rx="0" ry="0" width="17" height="130" style="fill:white" transform="rotate()0" stroke="white"  />
+      <rect x="465" y="520" rx="0" ry="0" width="17" height="50" style="fill:yellow" transform="rotate()0" stroke="yellow"  />
+      <rect x="294" y="650" rx="5" ry="5" width="50" height="17" style="fill:black" transform="rotate()0" stroke="black"  />
+      <rect x="433" y="650" rx="5" ry="5" width="50" height="17" style="fill:black" transform="rotate()0" stroke="black"  />
+      <polygon points="375,430 350,410 400,410" style="fill:linen"  />
+      <polygon points="425,430 400,410 450,410" style="fill:linen"  />
+      <polygon points="400,410 375,430 425,430" style="fill:red"  />
+      <polygon points="400,450 375,430 425,430" style="fill:red"  />
+      <polygon points="400,430 375,485 425,485" style="fill:red"  />
+      <polygon points="400,500 375,485 425,485" style="fill:red"  />
+      <circle cx="410" cy="350" r="20" fill="lightcoral"  />
+      <circle cx="387" cy="350" r="20" fill="lightcoral"  />
+      <circle cx="432" cy="350" r="20" fill="lightcoral"  />
+      <polygon points="370,360 345,330 480,330" style="fill:maroon"  />
+      <polygon points="450,360 345,330 480,330" style="fill:maroon"  />
+      <rect x="395" y="331" rx="5" ry="5" width="50" height="20" style="fill:maroon" transform="rotate()0" stroke="maroon"  />
+      <rect x="379" y="367" rx="5" ry="5" width="62" height="2" style="fill:lightcoral" transform="rotate()0" stroke="lightcoral"  />
+      <rect x="393" y="330" rx="0" ry="0" width="15" height="15" style="fill:white" transform="rotate()0" stroke="white"  />
+      <rect x="415" y="330" rx="0" ry="0" width="15" height="15" style="fill:white" transform="rotate()0" stroke="white"  />
+      <circle cx="330" cy="350" r="10" fill="gold"  />
+      <circle cx="325" cy="300" r="20" fill="gold"  />
+      <circle cx="370" cy="195" r="17" fill="gold"  />
+      <circle cx="500" cy="380" r="17" fill="gold"  />
+      <circle cx="312" cy="284" r="17" fill="gold"  />
+      <circle cx="330" cy="240" r="10" fill="gold"  />
+      <circle cx="310" cy="190" r="20" fill="gold"  />
+      <circle cx="505" cy="200" r="20" fill="gold"  />
+      <circle cx="490" cy="310" r="17" fill="gold"  />
+      <circle cx="515" cy="345" r="10" fill="gold"  />
+      <circle cx="510" cy="260" r="13" fill="gold"  />
+      <circle cx="440" cy="179" r="13" fill="gold"  />
+      <circle cx="440" cy="395" r="13" fill="gold"  />
+      <rect x="250" y="350" rx="15" ry="15" width="35" height="55" style="fill:white" transform="rotate()0" stroke="white"  />
+      <rect x="260" y="405" rx="0" ry="0" width="10" height="100" style="fill:yellow" transform="rotate()0" stroke="yellow"  />
+      <rect x="530" y="350" rx="15" ry="15" width="35" height="55" style="fill:white" transform="rotate()0" stroke="white"  />
+      <rect x="540" y="405" rx="0" ry="0" width="10" height="100" style="fill:yellow" transform="rotate()0" stroke="yellow"  />
+      <ellipse cx="265" cy="505" rx="20" ry="15" fill="yellow"  />
+      <ellipse cx="545" cy="505" rx="20" ry="15" fill="yellow"  />
+</svg>
